@@ -1,3 +1,4 @@
 masteradd
 tmpbranck
 asdasdf
+nopasswd
